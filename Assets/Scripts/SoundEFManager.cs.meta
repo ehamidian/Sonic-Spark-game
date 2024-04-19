@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Scripts/SoundEFManager.cs.meta
+guid: c31dc648b671c7946ab487f39cd74cdc
+========
+guid: 32b8de387be7f4d44a606018416f0215
+>>>>>>>> origin/main:Assets/Scripts/Healthbar.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
